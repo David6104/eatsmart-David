@@ -20,7 +20,7 @@
   Consultation du menu et commande en ligne
   
 - **Fonctionnalité 2 :**  
-  suivre le statut de la commande (préparation, prêt, servi) en temps réel.
+  Suivi du statut de la commande (préparation, prêt, servi) en temps réel
   
 #### **3.2 Backend (eatSmartBack)**
 
@@ -34,7 +34,7 @@
 
 ### **4. Technologies utilisées**
 
-- **Frontend :** PHP,HTML,CSS,JaavScript
+- **Frontend :** PHP,HTML,CSS,JaVaScript
 - **Backend :** API
 - **Base de données :** SQL
 
