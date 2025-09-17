@@ -1,13 +1,13 @@
 # eatsmart-David[Cahier-des-charges.md](https://github.com/user-attachments/files/22384323/Cahier-des-charges.md)
 # **Projet : EatSmart**
 
-**Etudiants :** (Nom des étudiants)
+**Etudiants :** David GASPAR OLIVEIRA
 
 ---
 
 ### **1. Description du projet**
 
-(Complétez ici avec la description du projet présentée en classe.)
+<img width="1152" height="648" alt="TABLEAU KABAN" src="https://github.com/user-attachments/assets/29521276-0354-4e55-952d-66713af94b01" />
 
 ---
 
@@ -40,4 +40,5 @@
 ---
 
 
-<img width="965" height="443" alt="image" src="https://github.com/user-attachments/assets/7a598ef0-476f-43e7-9822-0e94a2855681" />
+
+
