@@ -7,7 +7,8 @@
 
 ### **1. Description du projet**
 
-<img width="1152" height="648" alt="TABLEAU KABAN" src="https://github.com/user-attachments/assets/29521276-0354-4e55-952d-66713af94b01" />
+
+<img width="1152" height="648" alt="TABLEAU KABAN" src="https://github.com/user-attachments/assets/f9e08e4f-e9cd-4c8d-9435-d827d68d00e2" />
 
 ---
 
@@ -34,7 +35,7 @@
 ### **4. Technologies utilisées**
 
 - **Frontend :** PHP,HTML,CSS,JaavScript
-- **Backend :** (Technologies prévues)
+- **Backend :** API
 - **Base de données :** SQL
 
 ---
