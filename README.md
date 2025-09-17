@@ -16,26 +16,26 @@
 #### **3.1 Frontend (eatSmartFront)**
 
 - **Fonctionnalité 1 :**  
-  (Décrivez ici la première fonctionnalité du front-office.)
+  Consultation du menu et commande en ligne
   
 - **Fonctionnalité 2 :**  
-  (Décrivez ici la deuxième fonctionnalité du front-office.)
+  suivre le statut de la commande (préparation, prêt, servi) en temps réel.
   
 #### **3.2 Backend (eatSmartBack)**
 
 - **Fonctionnalité 1 :**  
-  (Décrivez ici la première fonctionnalité du back-office.)
+  Gestion des commandes et des réservations
   
 - **Fonctionnalité 2 :**  
-  (Décrivez ici la deuxième fonctionnalité du back-office.)
+  Administration du menu et historique
 
 ---
 
 ### **4. Technologies utilisées**
 
-- **Frontend :** (Technologies prévues)
+- **Frontend :** PHP,HTML,CSS,JaavScript
 - **Backend :** (Technologies prévues)
-- **Base de données :** (Technologies prévues)
+- **Base de données :** SQL
 
 ---
 
