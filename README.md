@@ -38,3 +38,6 @@
 - **Base de données :** (Technologies prévues)
 
 ---
+
+
+<img width="965" height="443" alt="image" src="https://github.com/user-attachments/assets/7a598ef0-476f-43e7-9822-0e94a2855681" />
