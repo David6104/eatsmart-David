@@ -25,7 +25,7 @@
 #### **3.2 Backend (eatSmartBack)**
 
 - **Fonctionnalité 1 :**  
-  Gestion des commandes et des réservations
+  Gestion des commandes des utilisateurs
   
 - **Fonctionnalité 2 :**  
   Administration du menu et historique
@@ -34,7 +34,7 @@
 
 ### **4. Technologies utilisées**
 
-- **Frontend :** PHP,HTML,CSS,JaVaScript
+- **Frontend :** PHP,HTML,CSS,JavaScript
 - **Backend :** API
 - **Base de données :** SQL
 
